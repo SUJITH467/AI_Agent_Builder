@@ -1,0 +1,90 @@
+{
+  "docstore": {
+    "66cc9031-50c6-49c0-a4e9-4c3fb7bb39f7": {
+      "data": "Salem",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "5f0e3f15-382c-4a52-b0cc-b04a93b53c40"
+      ],
+      "user_id": "sujith"
+    },
+    "ebc1e0b6-dffd-4cb1-8aac-c898ba2a00dd": {
+      "data": "Java",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "46f7c9f4-70b3-4194-8624-1faa84e55a24",
+        "5f0e3f15-382c-4a52-b0cc-b04a93b53c40",
+        "8f545c38-c3ea-4855-a9e0-d1c96087f8b9",
+        "b77e9192-3de4-4c76-8fd0-3618b1c28878"
+      ],
+      "user_id": "sujith"
+    },
+    "c0ff8934-a530-4f98-b19a-206f31f5a413": {
+      "data": "DSA",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "5f0e3f15-382c-4a52-b0cc-b04a93b53c40"
+      ],
+      "user_id": "sujith"
+    },
+    "8d1c1da6-9d90-48d9-b7e7-d77afb16ae10": {
+      "data": "favorite programming language",
+      "entity_type": "COMPOUND",
+      "linked_memory_ids": [
+        "5f0e3f15-382c-4a52-b0cc-b04a93b53c40"
+      ],
+      "user_id": "sujith"
+    },
+    "877736b9-2946-4ed7-997d-aea1334d2ee6": {
+      "data": "Salem",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "c5693e6c-ad70-4b29-a0a2-22bbfbb0ecbb"
+      ],
+      "user_id": "sujith"
+    },
+    "05f2c2a3-de9b-4591-9262-d3f528b595d0": {
+      "data": "Java",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "c5693e6c-ad70-4b29-a0a2-22bbfbb0ecbb"
+      ],
+      "user_id": "sujith"
+    },
+    "58036455-5dcc-43e4-a5b9-0fe0103d0f52": {
+      "data": "DSA",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "c5693e6c-ad70-4b29-a0a2-22bbfbb0ecbb"
+      ],
+      "user_id": "sujith"
+    },
+    "ca60e2bc-0415-4f4f-90eb-f77a848b6b44": {
+      "data": "favorite programming language",
+      "entity_type": "COMPOUND",
+      "linked_memory_ids": [
+        "c5693e6c-ad70-4b29-a0a2-22bbfbb0ecbb"
+      ],
+      "user_id": "sujith"
+    },
+    "432def14-4f4b-4da5-aedd-d3a530217abd": {
+      "data": "Sujith J",
+      "entity_type": "PROPER",
+      "linked_memory_ids": [
+        "873158c5-7db7-42b3-9a22-67021476c4b2"
+      ],
+      "user_id": "sujith"
+    }
+  },
+  "index_to_id": {
+    "0": "66cc9031-50c6-49c0-a4e9-4c3fb7bb39f7",
+    "1": "ebc1e0b6-dffd-4cb1-8aac-c898ba2a00dd",
+    "2": "c0ff8934-a530-4f98-b19a-206f31f5a413",
+    "3": "8d1c1da6-9d90-48d9-b7e7-d77afb16ae10",
+    "4": "877736b9-2946-4ed7-997d-aea1334d2ee6",
+    "5": "05f2c2a3-de9b-4591-9262-d3f528b595d0",
+    "6": "58036455-5dcc-43e4-a5b9-0fe0103d0f52",
+    "7": "ca60e2bc-0415-4f4f-90eb-f77a848b6b44",
+    "8": "432def14-4f4b-4da5-aedd-d3a530217abd"
+  }
+}

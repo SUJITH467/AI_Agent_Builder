@@ -1,0 +1,109 @@
+{
+  "docstore": {
+    "3083040f-9883-48a6-9342-f4ca6280a27a": {
+      "user_id": "sujith",
+      "data": "User mentioned their name is Sujith J",
+      "text_lemmatized": "User mentioned their name is Sujith J",
+      "hash": "af70fb163d0efc35b39376296069cc74",
+      "created_at": "2026-06-04T07:07:37.523787+00:00",
+      "updated_at": "2026-06-04T07:07:37.523787+00:00",
+      "attributed_to": "user"
+    },
+    "765c1a6c-6f46-4bef-ab5e-9ab270cb0726": {
+      "user_id": "sujith",
+      "data": "User mentioned their name is Sujith J and asked about memories",
+      "text_lemmatized": "User mentioned their name is Sujith J and asked about memories",
+      "hash": "688cb1f19a68ecf24367304064e5905f",
+      "created_at": "2026-06-04T07:07:56.603303+00:00",
+      "updated_at": "2026-06-04T07:07:56.603303+00:00",
+      "attributed_to": "assistant"
+    },
+    "f1958a8d-b5c7-4b02-875a-aa5085f83dba": {
+      "user_id": "sujith",
+      "data": "Assistant responded to user's question about memories",
+      "text_lemmatized": "Assistant responded to user's question about memories",
+      "hash": "3a01fc8502a38e4929ead7ab5deb0df6",
+      "created_at": "2026-06-04T07:07:56.603333+00:00",
+      "updated_at": "2026-06-04T07:07:56.603333+00:00",
+      "attributed_to": "assistant"
+    },
+    "3025f3f4-2c7e-4d0e-a97c-b41380c7f4ec": {
+      "user_id": "sujith",
+      "data": "User asked about their name and confirmed it is Sujith J",
+      "text_lemmatized": "User asked about their name and confirmed it is Sujith J",
+      "hash": "9e0562c86d695d00056466ecf96c0916",
+      "created_at": "2026-06-04T07:10:21.583228+00:00",
+      "updated_at": "2026-06-04T07:10:21.583228+00:00",
+      "attributed_to": "user"
+    },
+    "3590dfd6-6088-4c50-8fbd-e2b4bc3d00ec": {
+      "user_id": "sujith",
+      "data": "Assistant responded to user's quit message and tried to pick up the conversation again",
+      "text_lemmatized": "assistant respond user quit message try pick conversation",
+      "hash": "4b922b27f0650b50e0ffb66450f5ef39",
+      "created_at": "2026-06-04T07:19:44.283467+00:00",
+      "updated_at": "2026-06-04T07:19:44.283467+00:00"
+    },
+    "5f0e3f15-382c-4a52-b0cc-b04a93b53c40": {
+      "user_id": "sujith",
+      "data": "User mentioned their location (Salem), favorite programming language (Java), and learning journey with DSA",
+      "text_lemmatized": "user mention location salem favorite programming language java learn learning journey dsa",
+      "hash": "1a8cd55c5a8b97bdc1e1d149c029a76f",
+      "created_at": "2026-06-04T07:19:44.293679+00:00",
+      "updated_at": "2026-06-04T07:19:44.293679+00:00"
+    },
+    "b77e9192-3de4-4c76-8fd0-3618b1c28878": {
+      "user_id": "sujith",
+      "data": "Assistant inquired about user's interest in other languages given their affinity for Java",
+      "text_lemmatized": "assistant inquire user interest language give affinity java",
+      "hash": "78b1a17f1e51a61c7d242e793b8fd3c0",
+      "created_at": "2026-06-04T07:19:44.303408+00:00",
+      "updated_at": "2026-06-04T07:19:44.303408+00:00"
+    },
+    "46f7c9f4-70b3-4194-8624-1faa84e55a24": {
+      "user_id": "sujith",
+      "data": "User mentioned their name is Thamarai",
+      "text_lemmatized": "user mention thamarai",
+      "hash": "09b4a06699525ef49374d17cd023edef",
+      "created_at": "2026-06-04T09:38:36.053843+00:00",
+      "updated_at": "2026-06-04T09:38:36.053843+00:00"
+    },
+    "8f545c38-c3ea-4855-a9e0-d1c96087f8b9": {
+      "user_id": "sujith",
+      "data": "User confirmed their name is Thamarai and asked about memories",
+      "text_lemmatized": "user confirm thamarai ask memory",
+      "hash": "b7ce2f73b270a206475dfd70eb400129",
+      "created_at": "2026-06-04T09:39:05.067475+00:00",
+      "updated_at": "2026-06-04T09:39:05.067475+00:00"
+    },
+    "c5693e6c-ad70-4b29-a0a2-22bbfbb0ecbb": {
+      "user_id": "sujith",
+      "data": "User mentioned they live in Salem, have a favorite programming language (Java), and are learning DSA",
+      "text_lemmatized": "user mention live salem favorite programming language java learn learning dsa",
+      "hash": "a56d7ba10a80d59f8f8e4c798a102285",
+      "created_at": "2026-06-04T09:39:05.075238+00:00",
+      "updated_at": "2026-06-04T09:39:05.075238+00:00"
+    },
+    "873158c5-7db7-42b3-9a22-67021476c4b2": {
+      "user_id": "sujith",
+      "data": "User confirmed their name is Sujith J and asked about memories",
+      "text_lemmatized": "user confirm sujith j ask memory",
+      "hash": "cd0275a8c63889aa60e09d149b92da8b",
+      "created_at": "2026-06-04T09:39:58.923913+00:00",
+      "updated_at": "2026-06-04T09:39:58.923913+00:00"
+    }
+  },
+  "index_to_id": {
+    "0": "3083040f-9883-48a6-9342-f4ca6280a27a",
+    "1": "765c1a6c-6f46-4bef-ab5e-9ab270cb0726",
+    "2": "f1958a8d-b5c7-4b02-875a-aa5085f83dba",
+    "3": "3025f3f4-2c7e-4d0e-a97c-b41380c7f4ec",
+    "4": "3590dfd6-6088-4c50-8fbd-e2b4bc3d00ec",
+    "5": "5f0e3f15-382c-4a52-b0cc-b04a93b53c40",
+    "6": "b77e9192-3de4-4c76-8fd0-3618b1c28878",
+    "7": "46f7c9f4-70b3-4194-8624-1faa84e55a24",
+    "8": "8f545c38-c3ea-4855-a9e0-d1c96087f8b9",
+    "9": "c5693e6c-ad70-4b29-a0a2-22bbfbb0ecbb",
+    "10": "873158c5-7db7-42b3-9a22-67021476c4b2"
+  }
+}
